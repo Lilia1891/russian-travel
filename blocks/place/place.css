@@ -27,7 +27,6 @@
   .place {
     margin-bottom: 50px;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: auto;
     grid-gap: 32px;
   }
 }
