@@ -6,15 +6,16 @@
   color: #ffffff;
   align-self: end;
 }
-@media (min-width: 426px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .place__title {
     font-size: 42px;
     line-height: 46px;
   }
 }
-@media (min-width: 320px) and (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .place__title {
     font-size: 32px;
     line-height: 35px;
+    padding-left: 16px;
   }
 }

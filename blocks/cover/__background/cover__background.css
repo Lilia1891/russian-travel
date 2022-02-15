@@ -2,6 +2,8 @@
   width: 100%;
   background-image: url("../../../images/cover-trains.jpg");
   background-size: cover;
+  background-position: center;
+  object-fit: cover;
   position: relative;
   display: flex;
   flex-direction: column;

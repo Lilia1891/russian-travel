@@ -5,7 +5,7 @@
 .footer__item:last-child {
   margin-right: 0;
 }
-@media (min-width: 320px) and (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .footer__item {
     margin-right: 0;
     margin-bottom: 32px;

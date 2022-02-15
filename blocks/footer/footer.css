@@ -1,21 +1,21 @@
 .footer {
   margin: 0 auto;
   max-width: calc(100% - 96px);
-  margin-top: 82px;
+  margin-top: 92px;
   margin-bottom: 24px;
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
-@media (min-width: 426px) and (max-width: 768px) {
+@media screen and (max-width: 768px) {
   .footer {
     max-width: calc(100% - 48px);
     margin-top: 88px;
   }
 }
 
-@media (min-width: 320px) and (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .footer {
     margin-top: 64px;
     margin-left: 16px;

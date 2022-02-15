@@ -9,7 +9,7 @@
   color: #ffffff;
 }
 
-@media (min-width: 320px) and (max-width: 425px) {
+@media screen and (max-width: 425px) {
   .intro__text {
     margin-bottom: 34px;
   }
