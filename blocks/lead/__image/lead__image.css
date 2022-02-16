@@ -2,9 +2,8 @@
   margin: 0 auto;
   margin-top: 64px;
   margin-bottom: 8px;
-  max-width: calc (100% - 296px);
+  max-width: calc(100% - 296px);
   max-height: 615px;
-
   display: block;
 }
 
